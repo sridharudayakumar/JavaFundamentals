@@ -2,7 +2,7 @@
 # Java Fundamentals
 
 Day 1: Setup an Environment
-* Notes [Link]()
+* Notes [Link](src/day1/Introduction.md)
 * Sample Program [Link](src/day1/JavaTest.java)
 
 Day 2: Structure of Java Program
