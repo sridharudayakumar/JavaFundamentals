@@ -7,12 +7,17 @@ Day 1: Setup an Environment
 
 Day 2: Structure of Java Program
 * Notes: Link
-* Example 2: Link
+* Example: [Link](src/day2/Structure.java)
 
 Day 3: Datatypes
 * Notes: Link
-* Datatypes Demo: Link
-* Datatype Conversion: Link
+* Data types Demo: [Link](src/day3/DataTypeDemo.java)
+* Boolean Type Demo: [Link](src/day3/BooleanTypeDemo.java)
+* Char Type Demo: [Link](src/day3/CharTypeDemo.java)
+* Long Type Demo: [Link](src/day3/LongTypeDemo.java)
+* Double Type Demo: [Link](src/day3/DoubleTypeDemo.java)	
+* Data type Conversion: [Link](src/day3/DataTypeConversion.java)
+* Convert String to Other Type: [Link](src/day3/ConvertString.java)
 
 Day 4: Class and Methods
 * Notes: Link
