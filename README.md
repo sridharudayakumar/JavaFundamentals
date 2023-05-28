@@ -19,14 +19,15 @@ Day 3: Datatypes
 * Data type Conversion: [Link](src/day3/DataTypeConversion.java)
 * Convert String to Other Type: [Link](src/day3/ConvertString.java)
 
-Day 4: Class and Methods
+Day 4: Classes & Objects
 * Notes: Link
-* Book Class: Link
+* EmployeeDemo: [Link](src/day4/EmployeeDemo.java)
+* Encapsulated Class: [Link](src/day4/Employee.java)
+* Object Creation: [Link](src/day4/TestEmployee.java)
 
-Day 5: Objects
+Day 5: Methods
 * Notes: Link
-* Book Class w/object: Link
-* Example 2: Link
+* Methods Demo: [Link](src/day4/MethodsDemo.java)
 
 Day 6: String Utilities
 * Notes: Link
