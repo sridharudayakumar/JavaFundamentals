@@ -27,28 +27,30 @@ Day 4: Classes & Objects
 
 Day 5: Methods
 * Notes: Link
-* Methods Demo: [Link](src/day4/MethodsDemo.java)
+* Methods Demo: [Link](src/day5/MethodsDemo.java)
 
 Day 6: String Utilities
 * Notes: Link
-* String Demo: Link
-* String Concat: Link
-* String Trim: Link
-* String Compare: Link
+* String Demo: [Link](src/day6/StringDemo.java)
+* String Concat: [Link](src/day6/StringConcat.java)
+* String Trim: [Link](src/day6/StringTrim.java)
+* String Compare: [Link](src/day6/StringCompare.java)
+* String Lenth: [Link](src/day6/StringLenth.java)
+* String Empty: [Link](src/day6/StringEmpty.java)
 
 Day 7: Conditional Statements
 * Notes: Link
-* Conditional Statement Demo - if: Link
-* Conditional Statement Demo - if else: Link
-* Conditional Statement Demo - else if: Link
-* Conditional Statement Demo - switch: Link
+* Conditional Statement Demo - if: [Link](src/day7/ConditionalStatementDemo1.java)
+* Conditional Statement Demo - if else: [Link](src/day7/ConditionalStatementDemo2.java)
+* Conditional Statement Demo - else if: [Link](src/day7/ConditionalStatementDemo3.java)
+* Conditional Statement Demo - switch: [Link](src/day7/ConditionalStatementDemo4.java)
 
 Day 8: Looping statements
 * Notes: Link
-* Looping Statement Demo: Link
-* Looping Statement Demo 2: Link
-* Looping Statement Demo 3: Link
-* Practice: Link
+* Looping Statement Demo - for loop: [Link](src/day8/LoopingStatmentDemo1.java)
+* Looping Statement Demo - while loop: [Link](src/day8/LoopingStatmentDemo2.java)
+* Looping Statement Demo - do while: [Link](src/day8/LoopingStatmentDemo3.java)
+
 
 Day 9: Arrays
 * Notes: Link
