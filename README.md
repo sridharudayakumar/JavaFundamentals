@@ -47,9 +47,9 @@ Day 7: Conditional Statements
 
 Day 8: Looping statements
 * Notes: Link
-* Looping Statement Demo - for loop: [Link](src/day8/LoopingStatmentDemo1.java)
-* Looping Statement Demo - while loop: [Link](src/day8/LoopingStatmentDemo2.java)
-* Looping Statement Demo - do while: [Link](src/day8/LoopingStatmentDemo3.java)
+* Looping Statement Demo - for loop: [Link](src/day8/LoopingStatementDemo1.java)
+* Looping Statement Demo - while loop: [Link](src/day8/LoopingStatementDemo2.java)
+* Looping Statement Demo - do while: [Link](src/day8/LoopingStatementDemo3.java)
 
 
 Day 9: Arrays
